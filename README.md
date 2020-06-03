@@ -2,6 +2,9 @@
 
 Various examples on how to use [git-secrets][gs-repo] to detect secrets in your current source tree and your history.
 
+This is the canonical source for this post of mine:<br>
+https://softwarerecs.stackexchange.com/q/74761/67727
+
 ## Try This Yourself
 
 All the _How Tos_ below have been verified against a reproducible Dockerised environment.
